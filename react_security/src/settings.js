@@ -1,4 +1,5 @@
-const URL = "https://sandersolutions.dk/ca3_backend";
-//const URL = "https://localhost:8080/ca3_backend";
+const URL = "https://mukh.dk/EksamPrepType1";
+
+// const URL = "http://localhost:8080/EksamPrepType1";
 
 export default URL;
